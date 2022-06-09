@@ -37,24 +37,3 @@ OSINT
 ![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=atom&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-VIM-informational?style=flat&logo=vim&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-VS_Net-informational?style=flat&logo=visual-studio&logoColor=white&color=6aa6f8)
-
-
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-
-class L4mah:
-
-    def __init__(self):
-        self.name = "ElectroLulz"
-        self.role = "Scripter and Tester"
-        self.language_spoken = ["it_IT", "en_US"]
-
-    def say_hi(self):
-        print("There's just forked repo useful for my l4mah purposes. Priv8 repo aren't shared with skidd")
-
-
-me = L4mah()
-me.say_hi()
-```
