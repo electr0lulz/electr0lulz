@@ -1,11 +1,7 @@
-# Hello there 👋
+# Meow meow meow Lamers! 👋
 ## 🔧 What about me? 🔧 
 @electrolulz - electrolulz@protonmail.com
-Well, browse my repo, any help is appreciated.
-## 🔧 Focus 🔧 
-Onion Protocol / Tor Project
-Malware
-OSINT
+## 🔧 Focus Onion Protocol / Tor Project / Malware / OSINT
 
 ##  [ 💲HODL FOREVER SINCE 2014 ](#-cryptocurrencies)
 ![](https://img.shields.io/badge/₿-BTC-informational?style=flat&logo=bitcoin&logoColor=white&color=6aa6f8)
