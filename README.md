@@ -36,4 +36,5 @@ OSINT
 ![](https://img.shields.io/badge/Editor-VIM-informational?style=flat&logo=vim&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-VS_Net-informational?style=flat&logo=visual-studio&logoColor=white&color=6aa6f8)
 
-### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=electr0lulz&theme=dark&background=000000)](https://git.io/streak-stats)
+
