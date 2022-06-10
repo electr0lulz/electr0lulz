@@ -1,7 +1,8 @@
 # Meow meow meow Lamers! 👋
 My project: [Kitty the Cat is ddosing you!](https://github.com/electr0lulz/kattymad)
 <br>
-([Electr0lulz](https://github.com/electr0lulz/)) - electrolulz@protonmail.com
+([Electr0lulz](https://github.com/electr0lulz/)) - electrolulz@protonmail.com<br>
+Donate something to Cats: <b>bc1qxeadgxkng2w0sw09zg8p6f946j4ynyj0x7rzl9</b>
 ##  [ 💲HODL FOREVER SINCE 2014 ](#-cryptocurrencies)
 ![](https://img.shields.io/badge/₿-BTC-informational?style=flat&logo=bitcoin&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/₿-XMR-informational?style=flat&logo=monero&logoColor=white&color=6aa6f8)
