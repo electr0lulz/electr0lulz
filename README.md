@@ -1,7 +1,8 @@
 # Meow meow meow Lamers! 👋
 My projects:<br> 
 [Kitty the Cat (onion DDoS)](https://github.com/electr0lulz/kattymad)<br>
-[Mass-Exploit CVE-2022-29464](https://github.com/electr0lulz/Mass-exploit-CVE-2022-29464)
+[Mass-Exploit CVE-2022-29464](https://github.com/electr0lulz/Mass-exploit-CVE-2022-29464)<br>
+[Mass-Exploit CVE-2022-1388](https://github.com/electr0lulz/Mass-CVE-2022-1388)
 <br>
 About:<br>
 ([Electr0lulz](https://github.com/electr0lulz/)) - electrolulz@protonmail.com<br>
