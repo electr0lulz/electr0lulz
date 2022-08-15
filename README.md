@@ -1,5 +1,7 @@
 # Meow meow meow Lamers! 👋
 My projects:<br> 
+
+[Kitty Elixir DDoS Scheduler: API Services and Scheduler (not a full C2C but..) (onion DDoS)](https://github.com/electr0lulz/katty_web_scheduler)<br>
 [Kitty the Cat (onion DDoS)](https://github.com/electr0lulz/kattymad)<br>
 [Mass-Exploit CVE-2022-29464](https://github.com/electr0lulz/Mass-exploit-CVE-2022-29464)<br>
 [Mass-Exploit CVE-2022-1388](https://github.com/electr0lulz/Mass-CVE-2022-1388)
